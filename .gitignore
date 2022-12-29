@@ -12,6 +12,8 @@
 
 !Assets
 !Assets/Scripts
+!Assets/Scenes
+!Assets/Scenes/*
 !Assets/Scripts/*.cs
 
 
