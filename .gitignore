@@ -1,16 +1,20 @@
 
 
-# /Assets
-# /Logs
-# /Packages
-# /UserSettings
-# /Assembly-CSharp.csproj
-# /hallo.sln
-# /.vscode
-
+# Ignore everything except
 *
 
 !.gitignore
+!/UserSettings
+!/Assembly-CSharp.csproj
+!/hallo.sln
+!.vscode
+
+
+!Assets
+!Assets/Scripts
+!Assets/Scripts/*
+
+
 
 
 
