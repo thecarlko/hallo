@@ -1,0 +1,16 @@
+
+
+# /Assets
+# /Logs
+# /Packages
+# /UserSettings
+# /Assembly-CSharp.csproj
+# /hallo.sln
+# /.vscode
+
+*
+
+!.gitignore
+
+
+
